@@ -95,7 +95,7 @@ FX.setFullscreen = function() {
  */
 FX.handleMouseEvent = function(e, power) {
 
-	var 	radius = 75,
+	var 	radius = 100,
 		k = FX.dots.length,
 		i=0,
 		mx, my, 
